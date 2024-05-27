@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project has been initialized using [Create React App](https://github.com/facebook/create-react-app).
+This project has been initialized using [Create React App]().
 
 ## Available Scripts
 
